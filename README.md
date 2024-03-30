@@ -10,8 +10,14 @@ Currently, I'm diving deeper into Release and Deployment, and I'm excited to con
 
 ## Skills
 
+
+### DevOps :
+<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/b2f99ddb-718f-4641-bf66-aad55c18da1b"></code>
+
+
 ### Programming Languages:
-<code><img height="40" src="https://github.com/VINOD-V-A/about_me/assets/154583151/92d80c12-482a-4589-9b6d-e372746e8c09"></code>
+
+<code><img height="40" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/3754fb6c-d880-4d7d-853f-b7a4d08f7ca5"></code>
 <code><img height="50" src="https://github.com/VINOD-V-A/about_me/assets/154583151/6ecfb74c-6f7c-4b99-856b-8eeab23d63dc"></code>
 <code><img height="40" src="https://github.com/VINOD-V-A/about_me/assets/154583151/3e7ea19f-f2f5-469d-bf76-0c15ce52481b"></code>
 
@@ -35,27 +41,12 @@ Currently, I'm diving deeper into Release and Deployment, and I'm excited to con
 <code><img height="50" src="https://github.com/VINOD-V-A/about_me/assets/154583151/07dc70aa-d75f-480b-aa8d-5c466178c2e3"></code>
 <code><img height="50" src="https://github.com/VINOD-V-A/about_me/assets/154583151/a34d0212-db34-4c05-b307-df6d1f828021"></code>
 
-## Projects
 
-Here are a few highlighted projects I've worked on:
-
-1. **Project Name**: Brief description.
-   ![Project Image](link_to_image)
-   - [GitHub Repo](https://github.com/VINOD-V-A/Kivy-Calculator-App)
-   - [Live Demo](link_to_demo)
-
-2. **Project Name**: Brief description.
-   ![Project Image](link_to_image)
-   - [GitHub Repo](link_to_repo)
-   - [Live Demo](link_to_demo)
-
-3. **Project Name**: Brief description.
-   ![Project Image](link_to_image)
-   - [GitHub Repo](link_to_repo)
-   - [Live Demo](link_to_demo)
 
 ## Get In Touch
 
 Feel free to connect with me via:
 <p> <a href="https://www.linkedin.com/in/shreedhar-vajjrashetti/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p> <a href="mailto:shreedharshetti99@gmail.com"><i class="fa fa-envelope"></i> <b>shreedharshetti99@gmail.com</b></a> </p>
+
 Let's collaborate on exciting projects or discuss anything related to software development!
