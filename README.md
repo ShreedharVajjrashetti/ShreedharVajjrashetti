@@ -22,24 +22,23 @@ Currently, I'm diving deeper into Release and Deployment, and I'm excited to con
 <code><img height="40" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/6b0d217c-2999-4718-bd36-11183769fcf7"></code>
 
 ### Frameworks/Libraries:
-<code><img height="50" src="https://github.com/VINOD-V-A/about_me/assets/154583151/24565c5d-cc51-466e-835c-8cdcc622e764"></code>
-<code><img height="40" src="https://github.com/VINOD-V-A/about_me/assets/154583151/069dd891-d464-4426-9312-1ffb29128334"></code>
-<code><img height="50" src="https://github.com/VINOD-V-A/about_me/assets/154583151/6f0da901-3856-4efa-8490-691f0c2a75a8"></code>
+<code><img height="40" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/f8f8d66e-ef61-434e-ac33-9ec9fc8c0ff8"></code>
+<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/7ad51c17-9e96-4722-824d-85f8fb47d4eb"></code>
 
 ### Web Technologies:
-<code><img height="50" src="https://github.com/VINOD-V-A/about_me/assets/154583151/69948c4e-5b3e-4903-8270-958319e4a7c5"></code>
-<code><img height="50" src="https://github.com/VINOD-V-A/about_me/assets/154583151/848e0f0c-0533-4e98-98b4-a07a5a97f1f8"></code>
+<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/c41cdd14-8441-476d-8904-ca8280664197"></code>
+<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/093d2e0a-efab-4911-8389-462b7b8444e2"></code>
 
 ### Databases:
-<code><img height="55" src="https://github.com/VINOD-V-A/about_me/assets/154583151/49ad01e1-fd77-4557-a489-0e703ef3c085"></code>
-<code><img height="60" src="https://github.com/VINOD-V-A/about_me/assets/154583151/a8a6e967-f0aa-4c88-b134-782facd5b037"></code>
+<code><img height="55" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/6a2b8c76-ba4e-4342-a86f-8092ff937557"></code>
+<code><img height="60" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/6f1ab2a9-2058-4a3b-a122-8557efad4645"></code>
 
 ### Tools/IDEs:
-<code><img height="50" src="https://github.com/VINOD-V-A/about_me/assets/154583151/37fc80ac-7183-43f9-b39b-0ffb95ccfcd8"></code>
-<code><img height="50" src="https://github.com/VINOD-V-A/about_me/assets/154583151/2247088f-97f5-4066-96d0-8ce3f1696526"></code>
-<code><img height="50" src="https://github.com/VINOD-V-A/about_me/assets/154583151/287bb9e9-04fb-41f7-a36d-853b3838be18"></code>
-<code><img height="50" src="https://github.com/VINOD-V-A/about_me/assets/154583151/07dc70aa-d75f-480b-aa8d-5c466178c2e3"></code>
-<code><img height="50" src="https://github.com/VINOD-V-A/about_me/assets/154583151/a34d0212-db34-4c05-b307-df6d1f828021"></code>
+<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/0558513d-388b-4271-99e2-fad21ddecf93"></code>
+<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/a16fa32d-4fb3-4765-b6eb-bb8d45cdf241"></code>
+<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/cc2a3f1e-f4fb-4c44-9fed-f6932c0fe2dc"></code>
+<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/c9568324-23ef-4f44-ab74-b8a7a61d1e6e"></code>
+<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/d67f9eea-bd9b-4393-894b-25071a50c14f"></code>
 
 
 
