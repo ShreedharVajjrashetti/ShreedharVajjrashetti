@@ -18,8 +18,8 @@ Currently, I'm diving deeper into Release and Deployment, and I'm excited to con
 ### Programming Languages:
 
 <code><img height="40" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/3754fb6c-d880-4d7d-853f-b7a4d08f7ca5"></code>
-<code><img height="50" src="https://github.com/VINOD-V-A/about_me/assets/154583151/6ecfb74c-6f7c-4b99-856b-8eeab23d63dc"></code>
-<code><img height="40" src="https://github.com/VINOD-V-A/about_me/assets/154583151/3e7ea19f-f2f5-469d-bf76-0c15ce52481b"></code>
+<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/25fd13f4-1224-46fb-872b-079188afd4da"></code>
+<code><img height="40" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/6b0d217c-2999-4718-bd36-11183769fcf7"></code>
 
 ### Frameworks/Libraries:
 <code><img height="50" src="https://github.com/VINOD-V-A/about_me/assets/154583151/24565c5d-cc51-466e-835c-8cdcc622e764"></code>
@@ -47,6 +47,6 @@ Currently, I'm diving deeper into Release and Deployment, and I'm excited to con
 
 Feel free to connect with me via:
 <p> <a href="https://www.linkedin.com/in/shreedhar-vajjrashetti/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
-<p> <a href="mailto:shreedharshetti99@gmail.com"><i class="fa fa-envelope"></i> <b>shreedharshetti99@gmail.com</b></a> </p>
+<p> <a href="mailto:shreedharshetti99@gmail.com"><i class="fa fa-envelope"></i> <img alt="gmail" src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=Mail&logoColor=white"></a> </p>
 
 Let's collaborate on exciting projects or discuss anything related to software development!
