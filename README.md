@@ -45,7 +45,7 @@ Currently, I'm diving deeper into Release and Deployment, and I'm excited to con
 ## Get In Touch
 
 Feel free to connect with me via:
-<p> <a href="https://www.linkedin.com/in/shreedhar-vajjrashetti/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+
 <p> <a href="mailto:shreedharshetti99@gmail.com"><i class="fa fa-envelope"></i> <img alt="gmail" src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=Mail&logoColor=white"></a> </p>
 
 Let's collaborate on exciting projects or discuss anything related to software development!
